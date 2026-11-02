@@ -19,3 +19,5 @@ local/
 
 # Ignore iOS intermediate build directory
 /driver-iPhoneSimulator/
+config.bat
+node_modules
